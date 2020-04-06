@@ -7,6 +7,7 @@ public class Main {
         benz.maxSpeed += 1;
         System.out.println(benz.maxSpeed);
         System.out.println(benz.maxSpeed);
+        System.out.println(benz.maxSpeed);
         benz.printAll();
     }
 }
